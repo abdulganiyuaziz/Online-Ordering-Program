@@ -1,0 +1,14 @@
+C:\Users\ABDUL GANIYU\Desktop\Online Ordering Program\bin\Debug\net10.0\Online Ordering Program.exe
+C:\Users\ABDUL GANIYU\Desktop\Online Ordering Program\bin\Debug\net10.0\Online Ordering Program.deps.json
+C:\Users\ABDUL GANIYU\Desktop\Online Ordering Program\bin\Debug\net10.0\Online Ordering Program.runtimeconfig.json
+C:\Users\ABDUL GANIYU\Desktop\Online Ordering Program\bin\Debug\net10.0\Online Ordering Program.dll
+C:\Users\ABDUL GANIYU\Desktop\Online Ordering Program\bin\Debug\net10.0\Online Ordering Program.pdb
+C:\Users\ABDUL GANIYU\Desktop\Online Ordering Program\obj\Debug\net10.0\Online Ordering Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL GANIYU\Desktop\Online Ordering Program\obj\Debug\net10.0\Online Ordering Program.AssemblyInfoInputs.cache
+C:\Users\ABDUL GANIYU\Desktop\Online Ordering Program\obj\Debug\net10.0\Online Ordering Program.AssemblyInfo.cs
+C:\Users\ABDUL GANIYU\Desktop\Online Ordering Program\obj\Debug\net10.0\Online Ordering Program.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL GANIYU\Desktop\Online Ordering Program\obj\Debug\net10.0\Online Ordering Program.dll
+C:\Users\ABDUL GANIYU\Desktop\Online Ordering Program\obj\Debug\net10.0\refint\Online Ordering Program.dll
+C:\Users\ABDUL GANIYU\Desktop\Online Ordering Program\obj\Debug\net10.0\Online Ordering Program.pdb
+C:\Users\ABDUL GANIYU\Desktop\Online Ordering Program\obj\Debug\net10.0\Online Ordering Program.genruntimeconfig.cache
+C:\Users\ABDUL GANIYU\Desktop\Online Ordering Program\obj\Debug\net10.0\ref\Online Ordering Program.dll
